@@ -13,8 +13,11 @@
 4. ## Skills:
    * HTML/CSS, PHP, JavaScript, mySQL database
 5. ## Code examples: Code only during courses at eduweb.pl or udemi.
-6. ## Education: online learning only
+6. ## Education: online learning only:
    * Git
    * PHP
    * JavaScript
    * HTML5/CSS3
+8. ## English:
+   * Learning english since school, playing games, watching live streams/videos.
+   * Level B1-Intermediate
